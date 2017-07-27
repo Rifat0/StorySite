@@ -1,0 +1,18 @@
+2017-07-28 01:55:52,534 [10] DEBUG DebugLog [(null)] - Hello debugging
+2017-07-28 01:55:55,115 [10] DEBUG DebugLog [(null)] - Hello debugging
+2017-07-28 01:55:55,758 [10] DEBUG DebugLog [(null)] - Hello debugging
+2017-07-28 02:00:56,988 [10] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 02:00:56,989 [9] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 02:01:46,661 [8] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 02:03:17,352 [11] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 02:03:21,803 [8] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
