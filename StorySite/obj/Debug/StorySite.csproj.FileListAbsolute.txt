@@ -102,3 +102,6 @@ C:\Work\StorySite\StorySite\obj\Debug\StorySite.dll
 C:\Work\StorySite\StorySite\obj\Debug\StorySite.pdb
 C:\Work\StorySite\StorySite\bin\log4net.dll
 C:\Work\StorySite\StorySite\bin\log4net.xml
+C:\Work\StorySite\StorySite\bin\StorySite.Data.dll
+C:\Work\StorySite\StorySite\bin\StorySite.Data.pdb
+C:\Work\StorySite\StorySite\bin\StorySite.Data.dll.config

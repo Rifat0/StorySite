@@ -1,0 +1,10 @@
+C:\Work\StorySite\StorySite.Data\bin\Debug\StorySite.Data.dll
+C:\Work\StorySite\StorySite.Data\bin\Debug\StorySite.Data.pdb
+C:\Work\StorySite\StorySite.Data\obj\Debug\StorySite.Data.csprojResolveAssemblyReference.cache
+C:\Work\StorySite\StorySite.Data\obj\Debug\StorySite.Data.dll
+C:\Work\StorySite\StorySite.Data\obj\Debug\StorySite.Data.pdb
+C:\Work\StorySite\StorySite.Data\bin\Debug\StorySite.Data.dll.config
+C:\Work\StorySite\StorySite.Data\bin\Debug\EntityFramework.dll
+C:\Work\StorySite\StorySite.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\StorySite\StorySite.Data\bin\Debug\EntityFramework.xml
+C:\Work\StorySite\StorySite.Data\bin\Debug\EntityFramework.SqlServer.xml

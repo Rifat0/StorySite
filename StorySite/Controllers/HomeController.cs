@@ -1,4 +1,5 @@
 ﻿using log4net;
+using StorySite.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,22 +14,25 @@ namespace StorySite.Controllers
 
         public ActionResult Index()
         {
-            try
-            {
-                int x = 10000;
-                for (int i = 10; i>= -10; i--)
-                {
-                    x = x / i;
-                }
-
-
-            }catch(Exception ex)
-            {
-                log.Debug("Error in index", ex);
-            }
-            
+            StoryContext context = new StoryContext();
+            var stories = context.Stories.ToList();
             return View();
+            //try
+            //{
+            //    int x = 10000;
+            //    for (int i = 10; i>= -10; i--)
+            //    {
+            //        x = x / i;
+            //    }
+
+
+            //}catch(Exception ex)
+            //{
+            //    log.Debug("Error in index", ex);
+            //}
+
         }
+
 
         public ActionResult About()
         {

@@ -1,0 +1,5 @@
+C:\Work\StorySite\StorySite.Laibrary\bin\Debug\StorySite.Laibrary.dll
+C:\Work\StorySite\StorySite.Laibrary\bin\Debug\StorySite.Laibrary.pdb
+C:\Work\StorySite\StorySite.Laibrary\obj\Debug\StorySite.Laibrary.csprojResolveAssemblyReference.cache
+C:\Work\StorySite\StorySite.Laibrary\obj\Debug\StorySite.Laibrary.dll
+C:\Work\StorySite\StorySite.Laibrary\obj\Debug\StorySite.Laibrary.pdb

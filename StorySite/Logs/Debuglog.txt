@@ -16,3 +16,24 @@ System.DivideByZeroException: Attempted to divide by zero.
 2017-07-28 02:03:21,803 [8] DEBUG DebugLog [(null)] - Error in index
 System.DivideByZeroException: Attempted to divide by zero.
    at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 15:30:12,801 [7] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 15:31:00,586 [7] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 15:31:01,098 [7] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-28 15:31:03,627 [11] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-29 02:26:20,105 [7] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-29 02:26:28,087 [7] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
+2017-07-29 02:26:31,740 [7] DEBUG DebugLog [(null)] - Error in index
+System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Work\StorySite\StorySite\Controllers\HomeController.cs:line 21
